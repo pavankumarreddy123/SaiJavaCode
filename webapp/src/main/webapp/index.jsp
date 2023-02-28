@@ -6,3 +6,4 @@
 <h2> thi is all about me </h2>
 <h2> completed devops course intime </h2>
 <h2> thank you srinadh for giving this oppurtunity </h2>
+<h2> sorry for the inconvinence in hotel </h2>
